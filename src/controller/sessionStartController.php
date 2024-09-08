@@ -26,7 +26,7 @@
                 'name' => 'Beltrano Mendes',
                 'username' => 'beltranom',
                 'password' => 'segredinho',
-                'email' => 'beltrano@beltrame.com',
+                'email' => 'beltrano@boezio.com',
                 'telefone' => '+55 31 99876-5432'
             ),
             4 => array(
